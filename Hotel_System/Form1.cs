@@ -37,7 +37,7 @@ namespace Hotel_System
             
             try
             {
-               // connection.Open();
+               
                 label4.Text = "Connection Successful";
                
                
